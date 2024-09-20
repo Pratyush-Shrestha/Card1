@@ -23,7 +23,7 @@ main {
   width: 40%;
   background-color: whitesmoke;
   padding: 12px;
-  border-radius: 8px;
+  border-radius: 1vw;
   margin-top: 100px;
   margin-bottom: 100px;
 }
@@ -53,17 +53,17 @@ main {
   font-size: 1.3vw;
   padding: 5px;
   font-weight: 500;
-  border-radius: 8px;
+  border-radius: 0.5vw;
 }
 .pub {
   font-size: 1vw;
   font-weight: lighter;
-  margin-top: 4px;
+  margin-top: 0.5vw;
 }
 .html {
   font-size: 2vw;
   font-weight: bolder;
-  margin: 16px 0px;
+  margin: 1vw 0vw;
 }
 .info {
   font-size: 1.2vw;
@@ -72,7 +72,7 @@ main {
 .footer {
   display: flex;
   align-items: center;
-  margin-top: 12px;
+  margin-top: 0.8vw;
 }
 .footer h3 {
   margin-left: 4px;
